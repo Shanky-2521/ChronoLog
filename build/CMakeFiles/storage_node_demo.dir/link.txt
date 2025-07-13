@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/storage_node_demo.dir/examples/storage_node_demo.cpp.o -o storage_node_demo  libchronolog_lib.a

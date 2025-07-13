@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchronolog_lib.a CMakeFiles/chronolog_lib.dir/src/memtable.cpp.o
+/usr/bin/ranlib libchronolog_lib.a
